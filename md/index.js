@@ -4,6 +4,7 @@ export MdCallEnd from './call-end';
 export MdCallMade from './call-made';
 export MdCallReceived from './call-received';
 export MdCall from './call';
+export MdCheck from './check';
 export MdChevronLeft from './chevron-left';
 export MdChevronRight from './chevron-right';
 export MdClear from './clear';
