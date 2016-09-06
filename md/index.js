@@ -1,3 +1,4 @@
+export MdAdd from './add';
 export MdBackspace from './backspace';
 export MdBusiness from './business';
 export MdCallEnd from './call-end';
